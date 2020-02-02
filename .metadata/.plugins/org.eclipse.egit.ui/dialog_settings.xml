@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="C:\Users\Dell\Documents\GitHubProject\Student-Database-App\.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Dell\Documents\GitHubProject\Student-Database-App\.git">
+			<item value="false"/>
+			<item value="andy1410 &lt;abhisheka.536@gmail.com&gt;"/>
+			<item value="Initial Commit"/>
+			<item value="andy1410 &lt;abhisheka.536@gmail.com&gt;"/>
+			<item value="37ef4e5fea7b85210ba90861f0fb21d0621e9d31"/>
+			<item value="0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
